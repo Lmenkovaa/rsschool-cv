@@ -26,3 +26,25 @@
 - TypeScript
 - JavaScript
 - Technology OSTIS
+## Code samples
+***
+```javascript
+const TextButton = ({ sendInputText }) => {
+return (
+        <Button
+            className="recording-button-first"
+            icon={<SendOutlined className={'sendOutlinedIcon'} />}
+            onClick={sendInputText}
+        />
+    );
+};
+```
+## Work experience
+***
+#### 2020-2021 - Software Engineer
+## Education
+***
+#### Belarusian State University of Informatics and Radioelectronics 
+## English 
+***
+### A2-B1
