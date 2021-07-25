@@ -5,7 +5,7 @@
 ## Summary
 ***
 ### Goals:
-1. Become a frontend-developer;
+1. Become a FrontEnd-developer;
 2. Find IT-community;
 3. Finish this course.
 ### Personal qualities:
